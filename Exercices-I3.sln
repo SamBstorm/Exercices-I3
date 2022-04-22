@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo01 - Utilisateur", "Exo0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo02 - UtilisateurAge", "Exo02 - UtilisateurAge\Exo02 - UtilisateurAge.csproj", "{2A781781-181B-4AA0-AABC-9DABE8898B5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo03 - InversionValeur", "Exo03 - InversionValeur\Exo03 - InversionValeur.csproj", "{16323AC4-7D54-4338-B0C8-A5FFBCCF1830}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2A781781-181B-4AA0-AABC-9DABE8898B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A781781-181B-4AA0-AABC-9DABE8898B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A781781-181B-4AA0-AABC-9DABE8898B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16323AC4-7D54-4338-B0C8-A5FFBCCF1830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16323AC4-7D54-4338-B0C8-A5FFBCCF1830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16323AC4-7D54-4338-B0C8-A5FFBCCF1830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16323AC4-7D54-4338-B0C8-A5FFBCCF1830}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
