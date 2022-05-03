@@ -35,6 +35,7 @@ namespace Exo05___PierrePapierCiseaux
                         message = "Cpu : CISEAUX - ";
                         break;
                 }
+                //message = (cpu_choice == 1) ? "Cpu : PIERRE - " : (cpu_choice == 2) ? "Cpu : PAPIER - " : "Cpu : CISEAUX - ";
                 switch (user_choice)
                 {
                     case 1:
