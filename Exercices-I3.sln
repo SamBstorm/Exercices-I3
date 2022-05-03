@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo01 - Utilisateur", "Exo01 - Utilisateur\Exo01 - Utilisateur.csproj", "{11B102F3-D055-4905-AB65-71F0557F47E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo02 - UtilisateurAge", "Exo02 - UtilisateurAge\Exo02 - UtilisateurAge.csproj", "{2A781781-181B-4AA0-AABC-9DABE8898B5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo02 - UtilisateurAge", "Exo02 - UtilisateurAge\Exo02 - UtilisateurAge.csproj", "{2A781781-181B-4AA0-AABC-9DABE8898B5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo03 - InversionValeur", "Exo03 - InversionValeur\Exo03 - InversionValeur.csproj", "{16323AC4-7D54-4338-B0C8-A5FFBCCF1830}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo03 - InversionValeur", "Exo03 - InversionValeur\Exo03 - InversionValeur.csproj", "{16323AC4-7D54-4338-B0C8-A5FFBCCF1830}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo04 - PairImpair", "Exo04 - PairImpair\Exo04 - PairImpair.csproj", "{421A90AF-23C5-4808-9BCA-7C50A488ECED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo04 - PairImpair", "Exo04 - PairImpair\Exo04 - PairImpair.csproj", "{421A90AF-23C5-4808-9BCA-7C50A488ECED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo05 - PierrePapierCiseaux", "Exo05 - PierrePapierCiseaux\Exo05 - PierrePapierCiseaux.csproj", "{A128B24A-1091-47F1-99DD-FFDDAF98CFDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{421A90AF-23C5-4808-9BCA-7C50A488ECED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{421A90AF-23C5-4808-9BCA-7C50A488ECED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{421A90AF-23C5-4808-9BCA-7C50A488ECED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A128B24A-1091-47F1-99DD-FFDDAF98CFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A128B24A-1091-47F1-99DD-FFDDAF98CFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A128B24A-1091-47F1-99DD-FFDDAF98CFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A128B24A-1091-47F1-99DD-FFDDAF98CFDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
