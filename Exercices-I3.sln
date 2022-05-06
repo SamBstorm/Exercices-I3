@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo05 - PierrePapierCiseaux
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo06-DivisionModuloDivisionEntiere", "Exo06-DivisionModuloDivisionEntiere\Exo06-DivisionModuloDivisionEntiere.csproj", "{B57C5B70-2758-4271-A607-6037AB5D8CFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo07-BBAN", "Exo07-BBAN\Exo07-BBAN.csproj", "{EA584FAD-D8C6-4A5D-96DB-C922EFAA2ABC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo07-BBAN", "Exo07-BBAN\Exo07-BBAN.csproj", "{EA584FAD-D8C6-4A5D-96DB-C922EFAA2ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo08 - IBAN", "Exo08 - IBAN\Exo08 - IBAN.csproj", "{8277116A-8863-4CAB-91FD-CC735A120F1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{EA584FAD-D8C6-4A5D-96DB-C922EFAA2ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA584FAD-D8C6-4A5D-96DB-C922EFAA2ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA584FAD-D8C6-4A5D-96DB-C922EFAA2ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8277116A-8863-4CAB-91FD-CC735A120F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8277116A-8863-4CAB-91FD-CC735A120F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8277116A-8863-4CAB-91FD-CC735A120F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8277116A-8863-4CAB-91FD-CC735A120F1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
