@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo12 - Fibonacci", "Exo12 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo13 - NombresPremiers", "Exo13 - NombresPremiers\Exo13 - NombresPremiers.csproj", "{49B3F47A-051B-43FE-9E18-508119666B22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo14 - Nombres premiers Optimise", "Exo14 - Nombres premiers Optimise\Exo14 - Nombres premiers Optimise.csproj", "{75FF5186-4275-47BC-9CB8-0A86ABFE7C2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{49B3F47A-051B-43FE-9E18-508119666B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49B3F47A-051B-43FE-9E18-508119666B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49B3F47A-051B-43FE-9E18-508119666B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FF5186-4275-47BC-9CB8-0A86ABFE7C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FF5186-4275-47BC-9CB8-0A86ABFE7C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FF5186-4275-47BC-9CB8-0A86ABFE7C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FF5186-4275-47BC-9CB8-0A86ABFE7C2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
