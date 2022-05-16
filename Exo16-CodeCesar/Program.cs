@@ -6,8 +6,9 @@ namespace Exo16_CodeCesar
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
-            Console.WriteLine('\u1F60');
+            //Cet exercice se base sur une console qui encode et décode de l'ASCII (donc 128 caractères), si nous voulons aller plus loin, on peut paramétrer un encodage en UTF-8
+            /*Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.WriteLine('\u1F60');*/
             Console.WriteLine("Quel message encoder?");
             string input = Console.ReadLine();
             char[] chars = input.ToCharArray();
