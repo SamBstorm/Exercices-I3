@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo13 - NombresPremiers", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo14 - Nombres premiers Optimise", "Exo14 - Nombres premiers Optimise\Exo14 - Nombres premiers Optimise.csproj", "{75FF5186-4275-47BC-9CB8-0A86ABFE7C2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo15 - ToDoList", "Exo15 - ToDoList\Exo15 - ToDoList.csproj", "{379D0C70-51ED-45E3-9D7F-3E2F214069A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo15 - ToDoList", "Exo15 - ToDoList\Exo15 - ToDoList.csproj", "{379D0C70-51ED-45E3-9D7F-3E2F214069A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo16-CodeCesar", "Exo16-CodeCesar\Exo16-CodeCesar.csproj", "{8B3AA2BD-6667-4023-BC03-53FFBCC69931}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo16-CodeCesar", "Exo16-CodeCesar\Exo16-CodeCesar.csproj", "{8B3AA2BD-6667-4023-BC03-53FFBCC69931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo17 - Addition", "Exo17 - Addition\Exo17 - Addition.csproj", "{92F4B100-4E63-4CA7-844D-9B8A40E97682}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{8B3AA2BD-6667-4023-BC03-53FFBCC69931}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B3AA2BD-6667-4023-BC03-53FFBCC69931}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B3AA2BD-6667-4023-BC03-53FFBCC69931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F4B100-4E63-4CA7-844D-9B8A40E97682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F4B100-4E63-4CA7-844D-9B8A40E97682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F4B100-4E63-4CA7-844D-9B8A40E97682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F4B100-4E63-4CA7-844D-9B8A40E97682}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
