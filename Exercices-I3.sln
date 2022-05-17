@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo17 - Addition", "Exo17 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo18 - 421", "Exo18 - 421\Exo18 - 421.csproj", "{64AB7552-B338-434C-8811-E094E231EE81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo19 - TableauPoint", "Exo19 - TableauPoint\Exo19 - TableauPoint.csproj", "{FCB18C22-BF52-4C6B-91CA-CE909DF4911B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo 20 - Temperature", "Exo 20 - Temperature\Exo 20 - Temperature.csproj", "{35CEFA62-7E94-481F-BAC1-865999FB9C07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{64AB7552-B338-434C-8811-E094E231EE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64AB7552-B338-434C-8811-E094E231EE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64AB7552-B338-434C-8811-E094E231EE81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB18C22-BF52-4C6B-91CA-CE909DF4911B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB18C22-BF52-4C6B-91CA-CE909DF4911B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB18C22-BF52-4C6B-91CA-CE909DF4911B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB18C22-BF52-4C6B-91CA-CE909DF4911B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CEFA62-7E94-481F-BAC1-865999FB9C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CEFA62-7E94-481F-BAC1-865999FB9C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CEFA62-7E94-481F-BAC1-865999FB9C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CEFA62-7E94-481F-BAC1-865999FB9C07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
