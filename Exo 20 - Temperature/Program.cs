@@ -6,9 +6,13 @@ namespace Exo_20___Temperature
     {
         static void Main(string[] args)
         {
-            Fahrenheit f;
             Celsius c;
-            Console.WriteLine("Hello World!");
+            c.temperature = 0;
+            Fahrenheit f = c.Convert();
+            Console.WriteLine(f.temperature); //32
+            f.temperature = 114;
+            c = f.Convert();
+            Console.WriteLine(c.temperature);
         }
     }
 }

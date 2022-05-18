@@ -32,9 +32,10 @@ namespace Exo19___TableauPoint
                 {
                     if (tableau[i, j] is null) Console.Write("\t");
                     else {
-                        Point p = (Point)tableau[i, j];
-                        Console.Write($"X : {p.X} - Y : {p.Y}");
+                        //Point p = (Point)tableau[i, j];
+                        //Console.Write($"X : {p.X} - Y : {p.Y}");
                         //Console.Write($"X : {((Point)tableau[i, j]).X} - Y : {((Point)tableau[i, j]).Y}");
+                        Console.Write($"X : {tableau[i, j]?.X} - Y : {tableau[i, j]?.Y}");
                     } 
                 }
                 Console.WriteLine();
