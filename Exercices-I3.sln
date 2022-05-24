@@ -35,13 +35,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo15 - ToDoList", "Exo15 -
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo16-CodeCesar", "Exo16-CodeCesar\Exo16-CodeCesar.csproj", "{8B3AA2BD-6667-4023-BC03-53FFBCC69931}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo17 - Addition", "Exo17 - Addition\Exo17 - Addition.csproj", "{92F4B100-4E63-4CA7-844D-9B8A40E97682}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo17 - Addition", "Exo17 - Addition\Exo17 - Addition.csproj", "{92F4B100-4E63-4CA7-844D-9B8A40E97682}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo18 - 421", "Exo18 - 421\Exo18 - 421.csproj", "{64AB7552-B338-434C-8811-E094E231EE81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo18 - 421", "Exo18 - 421\Exo18 - 421.csproj", "{64AB7552-B338-434C-8811-E094E231EE81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo19 - TableauPoint", "Exo19 - TableauPoint\Exo19 - TableauPoint.csproj", "{FCB18C22-BF52-4C6B-91CA-CE909DF4911B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo19 - TableauPoint", "Exo19 - TableauPoint\Exo19 - TableauPoint.csproj", "{FCB18C22-BF52-4C6B-91CA-CE909DF4911B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo 20 - Temperature", "Exo 20 - Temperature\Exo 20 - Temperature.csproj", "{35CEFA62-7E94-481F-BAC1-865999FB9C07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo 20 - Temperature", "Exo 20 - Temperature\Exo 20 - Temperature.csproj", "{35CEFA62-7E94-481F-BAC1-865999FB9C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo21 - EquationSecondDegre", "Exo21 - EquationSecondDegre\Exo21 - EquationSecondDegre.csproj", "{48BDB388-A021-475C-B74E-9C29E8508619}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{35CEFA62-7E94-481F-BAC1-865999FB9C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35CEFA62-7E94-481F-BAC1-865999FB9C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35CEFA62-7E94-481F-BAC1-865999FB9C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BDB388-A021-475C-B74E-9C29E8508619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BDB388-A021-475C-B74E-9C29E8508619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BDB388-A021-475C-B74E-9C29E8508619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BDB388-A021-475C-B74E-9C29E8508619}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
